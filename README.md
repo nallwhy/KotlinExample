@@ -1,3 +1,3 @@
 # KotlinExample
 
-[http://json.postype.com/post/58130/]
+http://json.postype.com/post/58130/
